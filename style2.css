@@ -1,0 +1,32 @@
+*{
+    margin:0;
+}
+body{
+    background-image: url(re.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+header>*{
+    display: inline-block;
+    width: 450px;
+}
+.logo{
+    width: 10%;
+
+}
+header{
+    padding: 10px 5%;
+    background-color:#2F2828;
+    color: #B2AFAF;
+    position: fixed; 
+    top:0;
+    left:0;
+    width:100%;   
+}
+a{
+    text-decoration: none;
+    color: #B2AFAF;
+    padding: 10px 5%;
+    font-size: 20px;
+}
